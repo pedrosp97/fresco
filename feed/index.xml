@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fresco</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Comida Italiana</description>
+	<lastBuildDate>Thu, 04 May 2023 13:27:52 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Almoço Executivo</title>
+		<link>./../2023/05/almoco-executivo/index.html</link>
+					<comments>./../2023/05/almoco-executivo/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[pedrosantos]]></dc:creator>
+		<pubDate>Thu, 04 May 2023 13:07:33 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">./../index.html?p=183</guid>
+
+					<description><![CDATA[Conheça mais sobre nosso excelente almoço executivo, disponível de segunda a sexta, a partir das 11h até as 15h.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec mauris eu est ullamcorper tempus. Proin condimentum, erat sit amet luctus pharetra, nibh nisi pharetra lectus, tempor volutpat augue risus sed metus. Curabitur lacus tellus, feugiat sit amet sapien fermentum, malesuada condimentum arcu. Etiam quis semper sem. Integer tempor eros et urna euismod, quis venenatis dolor tincidunt. Suspendisse porta ullamcorper lorem, sit amet pulvinar magna luctus id. Fusce auctor fermentum fermentum. Phasellus bibendum quis est nec varius. Pellentesque tincidunt augue quis nisi consequat, eu lobortis libero interdum. Ut dictum ligula nec sem tristique, sit amet egestas eros posuere. Ut dignissim, ex sit amet dictum semper, enim risus fermentum nisl, id pharetra turpis ligula et turpis. Nunc rhoncus nunc facilisis nisi dignissim fringilla. Vestibulum convallis pretium scelerisque. Nam fringilla vulputate dolor.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-2">
+<div class="wp-block-column is-layout-flow" style="flex-basis:100%">					<div
+						class="wp-block-uagb-image-gallery uagb-block-0a23fe9c     "
+						style=""
+					>
+											<div class="spectra-image-gallery spectra-image-gallery__layout--carousel">
+								<div class="uagb-slick-carousel uagb-block-0a23fe9c">
+												<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='95'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--carousel">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="./../wp-content/uploads/2023/04/prato04-300x255-1.jpg">
+					<source media="(min-width: 768px)" srcset="./../wp-content/uploads/2023/04/prato04-300x255-1.jpg">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--carousel" src="./../wp-content/uploads/2023/04/prato04-300x255-1.jpg" alt="comida" loading="lazy" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+					Melhores peixes				</div>
+										</div>
+									</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='94'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--carousel">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="./../wp-content/uploads/2023/04/prato03-300x255-1.jpg">
+					<source media="(min-width: 768px)" srcset="./../wp-content/uploads/2023/04/prato03-300x255-1.jpg">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--carousel" src="./../wp-content/uploads/2023/04/prato03-300x255-1.jpg" alt="pizza" loading="lazy" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+					Melhores pizzas				</div>
+										</div>
+									</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='93'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--carousel">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="./../wp-content/uploads/2023/04/prato02-300x255-1.jpg">
+					<source media="(min-width: 768px)" srcset="./../wp-content/uploads/2023/04/prato02-300x255-1.jpg">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--carousel" src="./../wp-content/uploads/2023/04/prato02-300x255-1.jpg" alt="macarrão" loading="lazy" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+					Massas deliciosas				</div>
+										</div>
+									</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='92'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--carousel">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="./../wp-content/uploads/2023/04/prato01-300x255-1.jpg">
+					<source media="(min-width: 768px)" srcset="./../wp-content/uploads/2023/04/prato01-300x255-1.jpg">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--carousel" src="./../wp-content/uploads/2023/04/prato01-300x255-1.jpg" alt="comida" loading="lazy" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+					Massas de alta qualidade				</div>
+										</div>
+									</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='184'>
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--carousel">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="./../wp-content/uploads/2023/05/avocado-barbecue-cooked-725991.jpg">
+					<source media="(min-width: 768px)" srcset="./../wp-content/uploads/2023/05/avocado-barbecue-cooked-725991.jpg">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--carousel" src="./../wp-content/uploads/2023/05/avocado-barbecue-cooked-725991.jpg" alt="comida" loading="lazy" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+					Cozinha espetacular				</div>
+										</div>
+									</div>
+						</div>
+											</div>
+							</div>
+											</div>
+											<div class='spectra-image-gallery__control-lightbox' tabindex='0'>
+											<div class="swiper spectra-image-gallery__control-lightbox--main" dir="">
+					<div class="swiper-wrapper">
+													
+							<div class="swiper-slide">
+								<img class="swiper-lazy" data-src="./../wp-content/uploads/2023/04/prato04-300x255-1.jpg" alt="comida"/>
+								<div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+																	<div class="spectra-image-gallery__control-lightbox--caption" data-spectra-gallery-image-id='95'>
+										Melhores peixes									</div>
+															</div>
+													
+							<div class="swiper-slide">
+								<img class="swiper-lazy" data-src="./../wp-content/uploads/2023/04/prato03-300x255-1.jpg" alt="pizza"/>
+								<div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+																	<div class="spectra-image-gallery__control-lightbox--caption" data-spectra-gallery-image-id='94'>
+										Melhores pizzas									</div>
+															</div>
+													
+							<div class="swiper-slide">
+								<img class="swiper-lazy" data-src="./../wp-content/uploads/2023/04/prato02-300x255-1.jpg" alt="macarrão"/>
+								<div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+																	<div class="spectra-image-gallery__control-lightbox--caption" data-spectra-gallery-image-id='93'>
+										Massas deliciosas									</div>
+															</div>
+													
+							<div class="swiper-slide">
+								<img class="swiper-lazy" data-src="./../wp-content/uploads/2023/04/prato01-300x255-1.jpg" alt="comida"/>
+								<div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+																	<div class="spectra-image-gallery__control-lightbox--caption" data-spectra-gallery-image-id='92'>
+										Massas de alta qualidade									</div>
+															</div>
+													
+							<div class="swiper-slide">
+								<img class="swiper-lazy" data-src="./../wp-content/uploads/2023/05/avocado-barbecue-cooked-725991.jpg" alt="comida"/>
+								<div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+																	<div class="spectra-image-gallery__control-lightbox--caption" data-spectra-gallery-image-id='184'>
+										Cozinha espetacular									</div>
+															</div>
+											</div>
+					<div class="swiper-button-next"></div>
+					<div class="swiper-button-prev"></div>
+				</div>			
+																																<button class='spectra-image-gallery__control-lightbox--close'>
+													<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 320 512"><path d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"></path></svg>
+												</button>
+													</div>
+									</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../2023/05/almoco-executivo/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

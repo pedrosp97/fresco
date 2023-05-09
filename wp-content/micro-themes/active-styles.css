@@ -1,0 +1,80 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Colophon site primary footer inner wrap **/
+#colophon .site-primary-footer-inner-wrap {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+/** Geral >> Post 19 uagb block a26cd500 **/
+#post-19 .uagb-block-a26cd500 {
+	padding: 0 !important;
+}
+
+/** Geral >> Post 19 uagb block afd3b0c1 **/
+#post-19 .uagb-block-afd3b0c1 {
+	width: 100% !important;
+	padding: 0 !important;
+}
+
+/** Geral >> Post 15 uagb icon list wrap **/
+#post-15 .uagb-icon-list__wrap {
+	
+}
+
+/** Geral >> Post 15 uagb block 1a6d9ae9 **/
+#post-15 .uagb-block-1a6d9ae9 {
+	
+}
+
+
+/*( < 768 )*/
+@media (max-width: 767.98px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> Post 15 uagb block 6a3d5ec1 **/
+	#post-15 .uagb-block-6a3d5ec1 {
+	height: 300px !important;
+}
+
+
+}
+
+
+/*( < 480 )*/
+@media (max-width: 479.98px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> Post 13 heading 1 **/
+	#post-13 h1 {
+	text-align: left !important;
+}
+
+	/** Geral >> Post 13 uagb block 4d67c5df **/
+	#post-13 .uagb-block-4d67c5df {
+	text-align: center !important;
+}
+
+	/** Geral >> Uagb block 26ff727d uagb ifb title wrap **/
+	.uagb-block-26ff727d .uagb-ifb-title-wrap {
+	
+}
+
+	/** Geral >> Uagb block 26ff727d uagb ifb content **/
+	.uagb-block-26ff727d .uagb-ifb-content {
+	
+}
+
+	/** Geral >> Post 15 uagb block 6a3d5ec1 **/
+	#post-15 .uagb-block-6a3d5ec1 {
+	height: 300px !important;
+}
+
+
+}
+
